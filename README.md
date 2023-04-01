@@ -1,6 +1,7 @@
 # ML-assignment-3
 Assignment 3
 Bhargavi Chukkapalli (700743393)
+https://drive.google.com/file/d/1oRyyyU4soFoy4X3x6FpOpjU9tq245hdS/view?usp=share_link
 # 1.a.1)Creating random vector of size 15 having only Integers in the range 1-20.
 To create a random vector of given size using python , we can import numpy library and use random function
 import numpy as np
